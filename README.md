@@ -45,17 +45,17 @@ Utilizamos a plataforma Jira, onde divimos tarefas e acompanhamos o progresso de
 
 <img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/IMG_20221002_020126_053-modified.png">Amanda Giacometti: <a target="_blank" href="https://github.com/ManGiaco"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/mangiaco/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/298663895_146012704439822_7409020663592854062_n-modified.png?raw=true">Thais Oliveira: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/tha-oliveira/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/298663895_146012704439822_7409020663592854062_n-modified.png?raw=true">Thais Oliveira: <a target="_blank" href="https://github.com/Tha-Oliveira"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/tha-oliveira/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/63432377-modified.png?raw=true">Alex Katanosaka: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/63432377-modified.png?raw=true">Alex Katanosaka: <a target="_blank" href="https://github.com/alexkfreitas"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/alexkatanosaka/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/100434262-modified.png?raw=true">Gabriela Lopes: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/100434262-modified.png?raw=true">Gabriela Lopes: <a target="_blank" href="https://github.com/gabizzzs"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/gabrielalopesp/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/IMG_20220719_162118_411-modified.png?raw=true">Lucas Mendes: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/IMG_20220719_162118_411-modified.png?raw=true">Lucas Mendes: <a target="_blank" href="https://github.com/Lucas-Mendes-dos-S-Mota"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/lucas-mendes-32135a23a/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/308582988_3390127461313591_7390019217200723743_n-modified.png?raw=true">Renan Lira: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/308582988_3390127461313591_7390019217200723743_n-modified.png?raw=true">Renan Lira: <a target="_blank" href="https://github.com/renanlira96"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/renan-lira/"> Linkedin </a><br>
 
-<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/IMG_20220719_145342_358-modified.png?raw=true">Bruno Nogueira: <a target="_blank" href="https://github.com/"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/"> Linkedin </a><br>
+<img width="100" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/Foto%20perfil%20nossas/IMG_20220719_145342_358-modified.png?raw=true">Bruno Nogueira: <a target="_blank" href="https://github.com/brunodev1"> Github </a> | <a target="_blank" href="https://www.linkedin.com/in/bruno-nogueira-2330131aa/"> Linkedin </a><br>
 
 
 
