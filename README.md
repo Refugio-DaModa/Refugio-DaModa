@@ -1,8 +1,3 @@
-
-<div align="center" margin="200">
-<img align="center" width="200" src="https://github.com/ManGiaco/BancoDeImagens/blob/main/Ref%C3%BAgio%20da%20Moda/%C3%8Dcones/Logo%20Ref%C3%BAgio.png?raw=true">
-</div>
-  
 <h1 align="center"> <b> Refúgio da Moda </b> </h1>
 
 <p align="center"> Projeto integrador de conclusão de curso do bootcamp da Generation Brasil. <br>  
