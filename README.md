@@ -13,11 +13,21 @@ Nosso grupo escolheu a ODS 5 da ONU: “Alcançar a igualdade de gênero e empod
 
 ## 🎇 Uma possível solução através da tecnologia: 
 
+É comum encontrarmos muitas matérias e notícias onde mulheres ligam para a polícia e fingem pedir um açaí (por exemplo), mas na verdade têm a intenção de relatar uma violência que estão sofrendo no momento. Baseando-se nisso tivemos a ideia de criar um e-commerce diferenciado, onde há a possibilidade de vítimas de violência doméstica pedirem socorro. <br>
+
+Nós, como administradores do site, cadastramos em algumas categorias um campo do tipo “denúncia”. Dessa forma, alguns produtos no e-commerce são verdadeiros (disponíveis para compra) e outros são “fake”: há um mecanismo de denúncia por trás dele. Ao tentar compra-los, a vítima na verdade está gerando um pedido de ajuda em nosso banco de dados. No momento de finalizar a compra, ela fornecerá seus dados (inclusive endereço onde se encontra no momento) e nossa aplicação emitirá, de maneira discreta, uma ocorrência para a polícia. <br>
+
+Para divulgar nosso projeto – e garantir que as mulheres saibam quais são os produtos “especiais” que na verdade geram essa denúncia - faríamos campanhas em diversos espaços seguros. Alguns exemplos são: inserção de cartazes em banheiros públicos femininos, conscientização em ONGs voltadas para mulheres em situação de risco e ações no SUS em setores como maternidades e grupos de mulheres gestantes. 
+
 ## ✏ O design da logo: 
 
 Escolhemos a cor roxa por ser conhecidamente a cor do combate à violência contra mulher, inclusive em campanhas governamentais e internacionais. O nome representa a junção do conceito de espaço para denúncia (Refúgio) e o visual de e-commerce (da moda). Da mesma forma, o desenho traz a imagem de um cabide (que faz alusão ao conceito de moda) e a representação de uma casa (que se refere à ideia de refúgio). Por fim, há um espaço vazio antes do início do trecho “da moda”: essa símbologia representa a ideia de uma porta aberta, para que todas mulheres sejam bem-vindas. 
  
 ## 💻 Tecnologias utilizadas: 
+
+No back-end foi utilizado o Java, juntamente com o Springboot Framework. Também foi utilizado banco de dados relacional através do MySQL, onde temos 3 tabelas interligadas. Os testes de requisição HTTP foram executados no Insomnia, garantindo que todo o CRUD esteja funcional. Por fim, foi feito o deploy do back-end no Render. <br>
+
+No front-end utilizamos a biblioteca React - que inclui HTML, CSS, Javascript e Typescript – juntamente com o Material UI. Todo o design foi feito no Figma. No final realizamos o deploy do front-end no Netlify. 
 
 
 ## 🎯 Gerenciamento de projeto: 
